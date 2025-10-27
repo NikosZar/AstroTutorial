@@ -1,4 +1,7 @@
 ---
+import Navigation from '../components/Navigation.astro';
+import '../styles/global.css';
+
 const blogPage = "Blog Page";
 ---
 
@@ -12,9 +15,7 @@ const blogPage = "Blog Page";
 	</head>
 
 	<body>
-        <a href="/">Home</a>
-        <a href="/about/">About</a>
-        <a href="/blog/">Blog</a>
+      <Navigation />
 
       <h1>My Blog</h1>
       <ul>
