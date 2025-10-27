@@ -1,4 +1,4 @@
-v---
+---
 title: 'My First Blog Post'
 pubDate: 2025-10-27
 description: 'This is the first post of my new Astro blog.'
